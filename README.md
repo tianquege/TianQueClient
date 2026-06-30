@@ -1,9 +1,9 @@
 # ✈️ 天阙加速 (TianQue Client)
 
 **极速 · 稳定 · 无界 —— 您的专属网络头等舱**
-- 官网国内 **[官网国内](https://www.tianque.cc)**
-- 官网海外（须代理访问） **[官网海外](https://go.tianquege.top)**
-- 客户端下载 **[Releases](https://github.com/tianquege/TianQueClient/releases/latest)**
+- 官网国内 <a href="https://www.tianque.cc" target="_blank">官网国内</a>
+- 官网海外（须代理访问） <a href="https://go.tianquege.top" target="_blank">官网海外</a>
+- 客户端下载 <a href="https://github.com/tianquege/TianQueClient/releases/latest" target="_blank">Releases</a>
 
 天阙加速致力于为用户提供企业级的网络传输服务。我们采用顶尖的隧道技术与智能分流架构，确保您在任何时间、任何地点都能享受到如丝般顺滑的网络体验。
 
